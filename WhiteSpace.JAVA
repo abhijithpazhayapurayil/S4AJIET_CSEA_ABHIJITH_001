@@ -12,3 +12,13 @@ public class Main
 		System.out.println(j);
 	}
 }
+
+public class Main
+{
+	public static void main(String[] args) {
+	    String input="Hello World";
+	    String s=input.replace(" ","");
+		System.out.println(s);
+	}
+}
+
