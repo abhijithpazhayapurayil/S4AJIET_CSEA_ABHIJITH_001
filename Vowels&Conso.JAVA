@@ -16,6 +16,6 @@ public class Main
 	            conso++;
 	       }
 	    }
-		System.out.println(vowels+","+conso);
+		System.out.println("Number of Vowels"+vowels+","Number of Consonents"+conso);
 	}
 }
