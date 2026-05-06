@@ -13,3 +13,6 @@ public class Main
 	    System.out.println(r);
 	}
 }
+
+input:- a3b4c5
+output:- aaabbbbccccc
